@@ -1,3 +1,3 @@
-# pages-app
+# django pages-app
 
 MIT
